@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<a href="http://i.imgur.com/XXen4w7.gif">HTML Images</a>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
