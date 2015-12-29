@@ -1,4 +1,3 @@
-# iOS-Prework
 # Pre-work - iOS Pre-Work: Tip Calculator App
 
 Joe’s Tip is a tip calculator application for iOS.
