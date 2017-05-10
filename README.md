@@ -2,7 +2,7 @@
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is available:
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following features are implemented:
